@@ -6,13 +6,11 @@ import {
   IconCodepen,
   IconInstagram,
   IconTwitter,
-  IconStar,
-  IconFork,
 } from '@components/icons';
 import { socialMedia } from '@config';
 import styled from 'styled-components';
 import { theme, mixins, media } from '@styles';
-const { colors, fontSizes, fonts } = theme;
+const { colors } = theme;
 
 const FooterContainer = styled.footer`
   ${mixins.flexCenter};
@@ -42,32 +40,8 @@ const SocialLink = styled.a`
     height: 20px;
   }
 `;
-const Copy = styled.div`
-  margin: 10px 0;
-  font-family: ${fonts.SFMono};
-  font-size: ${fontSizes.xsmall};
-  line-height: 1;
-`;
-const GithubLink = styled.a`
-  color: ${colors.slate};
-`;
-const GithubInfo = styled.div`
-  margin-top: 10px;
 
-  & > span {
-    display: inline-flex;
-    align-items: center;
-    margin: 0 7px;
-  }
-  svg {
-    display: inline-block;
-    height: 15px;
-    width: auto;
-    margin-right: 5px;
-  }
-`;
-
-const Footer = ({ githubInfo }) => (
+const Footer = () => (
   <FooterContainer>
     <SocialContainer>
       <SocialItemList>
@@ -97,27 +71,6 @@ const Footer = ({ githubInfo }) => (
           ))}
       </SocialItemList>
     </SocialContainer>
-    <Copy>
-      <GithubLink
-        href="https://github.com/bchiang7/v4"
-        target="_blank"
-        rel="nofollow noopener noreferrer">
-        <div>Designed &amp; Built by Brittany Chiang</div>
-
-        {githubInfo.stars && githubInfo.forks && (
-          <GithubInfo>
-            <span>
-              <IconStar />
-              <span>{githubInfo.stars}</span>
-            </span>
-            <span>
-              <IconFork />
-              <span>{githubInfo.forks}</span>
-            </span>
-          </GithubInfo>
-        )}
-      </GithubLink>
-    </Copy>
   </FooterContainer>
 );
 

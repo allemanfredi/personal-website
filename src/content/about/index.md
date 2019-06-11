@@ -1,19 +1,21 @@
 ---
 title: 'About Me'
-avatar: './me.jpg'
+avatar: './me.png'
 skills:
+  - Blockchain
   - JavaScript (ES6+)
   - HTML & (S)CSS
-  - React
-  - Vue
+  - React / React Native
+  - Angular
   - Node.js
   - Express
-  - GraphQL
-  - NativeScript
+  - Solidity
+  - AWS
+  - Cryptography
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
+Hello! I'm Alesandro, a Blockchain engineer based in Felegara(PR), Italy who is very pasionate about Blockchain and software development.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+During my last year of studies at Politecnico di Torino, i started working at Deloitte's EMEA Blockchain Lab in Milan where i am currently working.
 
 Here's a few technologies I've been working with recently:

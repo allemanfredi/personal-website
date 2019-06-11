@@ -181,7 +181,7 @@ const Project = styled.div`
       margin-right: -10px;
     }
     ${ImgContainer} {
-      grid-column: 1 / 8;
+      grid-column: 1 / 6;
       ${media.tablet`height: 100%;`};
       ${media.thone`
         grid-column: 1 / -1;
