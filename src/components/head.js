@@ -36,7 +36,6 @@ const Head = ({ metadata }) => (
     <meta name="twitter:description" content={metadata.description} />
     <meta name="twitter:image" content={`${config.siteUrl}${ogImage}`} />
     <meta name="twitter:image:alt" content={metadata.title} />
-
     <meta name="msapplication-TileColor" content={config.navyColor} />
     <meta name="theme-color" content={config.navyColor} />
   </Helmet>
