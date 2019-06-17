@@ -8,4 +8,4 @@ url: 'https://www2.deloitte.com/it/it/pages/financial-services/articles/blockcha
 ---
 
 - Design and development of Blockchain-based Proof Of Concept with MERN stack and Solidity for Smart Contract Development
-- Implemented the front-end of Intesa San Paolo's Human Resources platform with Angular 6
+- Implemented the front-end of a large bank in Italy for the human resources department with Angular6
