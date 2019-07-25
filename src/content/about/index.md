@@ -5,17 +5,20 @@ skills:
   - Bitcoin
   - Ethereum
   - IOTA
-  - Zilliqa
+  - EOS
   - Monero
   - JavaScript (ES6+)
   - Solidity
   - Web3
-  - Typescript
   - Node.js
   - React / React Native
+  - Typescript
   - AWS
-  - C POSIX Threads Programming
+  - C++
+  - Serverless Framework
+  - Redux
   - Cryptography
+  - C POSIX Threads Programming
   - HTML & (S)CSS
   - Angular
   - Express
