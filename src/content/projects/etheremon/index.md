@@ -5,10 +5,10 @@ image: ''
 github: 'https://github.com/allemanfredi/etheremon'
 external: ''
 tech:
-  - Blockchain
-  - Ethereum
-  - Solidity
-  - ES6
+  - blockchain
+  - ethereum
+  - solidity
+  - truffle
 show: 'true'
 ---
 

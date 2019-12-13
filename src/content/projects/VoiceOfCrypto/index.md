@@ -5,10 +5,11 @@ image: ''
 github: 'https://github.com/allemanfredi/voice-of-crypto'
 external: ''
 tech:
-  - Alexa Skill
+  - alexa-skill
   - node
-  - ES6
-  - AWS
+  - es6
+  - lambda-function
+  - aws
 show: 'true'
 ---
 

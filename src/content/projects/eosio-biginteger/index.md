@@ -5,9 +5,9 @@ image: ''
 github: 'https://github.com/allemanfredi/eosio-biginteger'
 external: ''
 tech:
-  - Blockchain
-  - EOS
-  - C++
+  - blockchain
+  - eos
+  - c-plus-plus
 show: 'true'
 ---
 

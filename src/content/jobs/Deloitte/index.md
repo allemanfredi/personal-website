@@ -1,9 +1,9 @@
 ---
 date: '2018-05-28'
-title: 'Blockchain Developer'
+title: 'Blockchain Engineer'
 company: 'Deloitte'
 location: 'Milan, IT'
-range: 'May 2018 - Now'
+range: 'May 2018 - Aug 2019'
 url: 'https://www2.deloitte.com/it/it/pages/financial-services/articles/blockchain-lab---deloitte-italy---financial-services.html'
 ---
 
