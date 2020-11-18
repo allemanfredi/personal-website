@@ -1,7 +1,7 @@
 ---
 date: '2019-05-09'
 title: 'Software Engineer'
-company: 'Provable'
+company: 'Provable Things'
 location: 'London, UK'
 range: 'Sept 2019 - Now'
 url: 'https://provable.xyz/'
@@ -13,3 +13,5 @@ url: 'https://provable.xyz/'
 - Development of EOS Smart Contract with C++.
 - Development of frontend + backend (NodeJS & Express & MongoDB) for the [pTokens.io](https://ptokens.io/) website.
 - Maintenance of the remix plugin (Solidity online IDE) to allow users to integrate the oracle service offered by Provable within the JS VM offered by remix.
+- Development of [steroids.finance](https://steroids.finance) dapp.
+- Development of [pNetwork DAO](https://mainnet.aragon.org/#/pnetwork)

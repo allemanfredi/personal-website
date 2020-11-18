@@ -11,10 +11,7 @@ tech:
   - iotajs-injection
   - react
   - google-chrome-extension
-  - iota-mam
 show: 'true'
 ---
 
-Pegasus is an extension for Google Chrome developed by myself that implements a wallet for IOTA.
-This wallet also injects the IotaJS library into the content script of each page. This mechanism makes it possible for developers to interact directly with libraries, without posing the problem of how to keep the seed safe.
-Moreover it allows to monitor MAM Channel thanks MAM Explorer.
+Pegasus is a Browser extension that implements a wallet for the IOTA cryptocurrency. In addition, Pegasus injects the iotajs library allowing developers to interact with IOTA Tangle without paying attention on how to keep the seed safe.

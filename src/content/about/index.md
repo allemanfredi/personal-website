@@ -1,6 +1,6 @@
 ---
 title: 'About Me'
-avatar: './me.jpg'
+avatar: './me.png'
 skills:
   - Bitcoin
   - Ethereum
@@ -14,8 +14,8 @@ skills:
   - Cryptography
   - Rust
   - React / React Native
-  - Redux
-  - Github
+  - Redux (saga and thunk)
+  - git
   - Express
   - Typescript
   - AWS
@@ -23,7 +23,6 @@ skills:
   - C++
   - Serverless Framework
   - HTML & (S)CSS
-  - Angular 6/7
 ---
 
 Hello! I’m Alessandro, a blockchain engineer based in Felegara, Italy.
@@ -33,6 +32,6 @@ I love working in this industry and getting to build new things, but love even m
 
 During my last year of studies at Politecnico di Torino, i started working at Deloitte's EMEA Blockchain Lab in Milan.
 
-Currently i'm working as Software Engineer at Provable (Oraclize 2.0) on the [pTokens](https://dapp.ptokens.io/) project (a project that I consider very interesting).
+Currently i'm working as CTO at Eidoo Wallet and as Blockchain Engineer at Provable Things (Oraclize 2.0).
 
 Here's a few technologies I've been working with or have studied in depth recently:
